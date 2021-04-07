@@ -26,8 +26,7 @@ const  LogOutScreen = ({ navigation }) => {
     return (
       <View style={styles.container}>
         <Text style={styles.Text3}>
-            Hola, esto no es un adios,  esperamos tu regreso... 
-            {/* o que me contacten de nuevo, diciendo que pase la prueba  :(  */} 
+            Hola, esto no es un adios sino un hasta luego,  esperamos tu regreso... 
         </Text>
         <Avatar
           rounded

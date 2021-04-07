@@ -3,7 +3,6 @@ import { StyleSheet, Text, View, FlatList, Image,  ActivityIndicator, Dimensions
 import { Button } from 'react-native-elements'
 import { json, getAcessToken } from '../../constants/api'
 const  HomeScreen = ({ navigation }) => {
- /* no es mucho, pero es honesto */
   const [ imgData, setData ] = useState([])
   const [loaded , setLoaded] = useState(false)
   useEffect(() => {
