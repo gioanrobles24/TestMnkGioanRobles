@@ -1,4 +1,4 @@
-# TestMnkGioanRobles
+# TestMnk Gioanfranco robles
 Aplicación en react native usando Typescrpit 
 
 # Instrucciones de ejecución
